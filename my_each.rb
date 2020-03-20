@@ -1,4 +1,4 @@
- words = ['hi', 'hello
+ words = "hi', 'hello'bye', 'goodbye"
 def my_each # put argument(s) here
   # code here
 end
